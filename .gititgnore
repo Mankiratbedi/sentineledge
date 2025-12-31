@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data
+*.mp4
+*.wav
+*.db
