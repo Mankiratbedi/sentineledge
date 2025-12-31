@@ -41,5 +41,5 @@ Want to try the prototype simulation? Follow these steps:
 
 **1. Clone the repo**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/SentinelEdge.git](https://github.com/YOUR_USERNAME/SentinelEdge.git)
+git clone [https://github.com/Mankiratbedi/sentineledge.git](https://github.com/Mankiratbedi/sentineledge.git)
 cd SentinelEdge
